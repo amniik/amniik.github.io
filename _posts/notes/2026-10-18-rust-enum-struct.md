@@ -1,10 +1,10 @@
 ---
-title: "Strings and String-Like Types in Rust"
+title: "Enum and Structs in Rust"
 categories:
   - Learning Notes
   - Rust
 tags: [rust, structs, enums, pattern-matching, methods, data-types]
-description: "A concise guide Enum and Structs in Rust."
+description: "A concise guide about Enum and Structs in Rust."
 
 toc: true
 ---

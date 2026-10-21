@@ -1,7 +1,8 @@
 ---
 title: "Linux Signal Handlers: Reentrancy and Async-Signal-Safety"
-date: 2026-10-20
-categories: [Linux, Systems Programming]
+categories:
+  - Learning Notes
+  - System Programming
 tags: [linux, tlpi, signals, c, reentrancy, async-signal-safety, concurrency]
 ---
 

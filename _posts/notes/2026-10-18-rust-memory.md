@@ -1,6 +1,8 @@
 ---
 title: "Memory, Ownership, and Borrowing in Rust"
-categories: [rust, programming]
+categories:
+  - Learning Notes
+  - Rust
 tags: [rust, memory-management, ownership, borrowing, lifetimes, pointers, systems-programming]
 description: "A concise guide about memory in Rust."
 
